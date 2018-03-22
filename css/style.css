@@ -1,0 +1,40 @@
+ <style>
+   .html{
+	   background-image:url("f.jpg");
+   }
+	  #outer
+	  {
+	  height:900px;
+	  width:1400px;
+	  margin:0px auto;
+	  border:2px solid ;
+	  background-image:url("f.jpg");
+	  }
+	    #form
+		{
+		height:600px;
+		width:300px;
+		opacity:0.8;
+		margin-left:200px;
+		magin-top:80px;
+		background-color:black;
+		}
+		.a
+		{
+		 height:40px;
+         width:180px;
+		 border-radius:10px;
+         margin-top:25px;
+         margin-left:25px;		 
+		}
+		.x
+		{
+		 height:40px;
+         width:180px;
+		 border-radius:10px;
+		 background-color:green;
+         margin-top:25px;
+         margin-left:25px;		 
+		}
+		
+</style>
